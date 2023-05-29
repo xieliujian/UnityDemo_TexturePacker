@@ -1,0 +1,30 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/GTM/Plugins/TexturePacker/Example/SpriteSheet/sprites.tpsheet
+- Assets/Package/ui/icon/common0.tpsheet
+- Assets/Package/ui/icon/job0.tpsheet
+- Assets/Package/ui/icon/login0.tpsheet
+- Assets/Package/ui/icon/pet0.tpsheet
+- Assets/Package/ui/image/bg0.tpsheet
+- Assets/Package/ui/image/common0.tpsheet
+- Assets/Scripts/Editor/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+textureFileNames:
+- Assets/GTM/Plugins/TexturePacker/Example/SpriteSheet/sprites.png
+- Assets/Package/ui/icon/common0.png
+- Assets/Package/ui/icon/job0.png
+- Assets/Package/ui/icon/login0.png
+- Assets/Package/ui/icon/pet0.png
+- Assets/Package/ui/image/bg0.png
+- Assets/Package/ui/image/common0.png
+- Assets/Scripts/Editor/codeandweb.com/Example/SpriteSheet/sprites.png
+normalmapFileNames:
+- Assets/GTM/Plugins/TexturePacker/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+- 
+- Assets/Scripts/Editor/codeandweb.com/Example/SpriteSheet/sprites_n.png
+enableDebugOutput: 0

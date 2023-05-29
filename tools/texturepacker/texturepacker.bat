@@ -21,12 +21,12 @@ python %PYTHON_MAIN_FILE% %SrcDir2% %DstDir2%
 
 echo "--------------------------------------------------------------------------"
 
-echo "svn add DstDir"
-cd %DstDir1%
-svn add . --no-ignore --force
-
-cd %DstDir1_To_DstDir2%
-svn add . --no-ignore --force
+@REM echo "svn add DstDir"
+@REM cd %DstDir1%
+@REM svn add . --no-ignore --force
+@REM
+@REM cd %DstDir1_To_DstDir2%
+@REM svn add . --no-ignore --force
 
 pause
 

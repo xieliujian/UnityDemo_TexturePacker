@@ -5,6 +5,7 @@ IGNORE_EXT_LIST = [".meta"]
 
 TP_MAX_SIZE = 2048
 
+
 def exeCommand(srcfulldir, subdirnoext, dstdir):
     dstfulldir = dstdir + subdirnoext
 
