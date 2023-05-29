@@ -10,11 +10,11 @@
 
 ## 导入插件
 
-![github](www.baidu.com)
+![github](https://github.com/xieliujian/UnityDemo_TexturePacker/blob/main/video/1.png?raw=true)
 
 把图片格式从`Default`修改为`Sprite (2D and UI)`
 
-![github](www.baidu.com)
+![github](https://github.com/xieliujian/UnityDemo_TexturePacker/blob/main/video/2.png?raw=true)
 
 ## python导出工具
 
