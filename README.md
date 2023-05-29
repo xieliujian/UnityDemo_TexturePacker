@@ -2,7 +2,7 @@
 
 ## TexturePacker注册
 
-选择`TexturePacker.exe`，点击`agree`
+选择`TexturePacker.exe`，点击控制台输入`agree`
 
 ## 安装python
 
